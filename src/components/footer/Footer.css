@@ -1,0 +1,29 @@
+.footer{
+    margin-top: 150px;
+}
+.footer hr{
+    margin-bottom: 60px;
+}
+.footer__list{
+    display: flex;
+    justify-content: space-between;
+}
+.footer__list ul{
+    display: flex;
+}
+.footer__list ul li{
+    list-style-type: none;
+    margin-right: 40px;
+    color: #707070;
+}
+.footer__list input{
+    border: none;
+    border-bottom: 1px solid #707070;
+    width: 300px;
+}
+
+.footer img{
+    margin-left: 900px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

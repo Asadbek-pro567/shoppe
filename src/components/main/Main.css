@@ -1,0 +1,90 @@
+.main__inner{
+    display: flex;
+}
+.main__img img{
+    width: 120px;
+    height: 120px;
+    margin-bottom: 40px;
+}
+.main__inner__img{
+    width: 540px;
+    height: 600px;
+    margin-left: 30px;
+}
+
+.main__list{
+    margin-left: 60px;
+}
+.main__list h6{
+    margin-top: 70px;
+    color: #707070;
+}
+.main__list p{
+    color: #707070;
+}
+
+.main__btn{
+    display: flex;
+    width: 100px;
+    height: 40px;
+    background-color: #EFEFEF;
+}
+.main__btn h5{
+    margin-top: 12px;
+}
+.main__btn button{
+    background-color: #EFEFEF;
+    border: 1px solid #EFEFEF;
+    padding: 0 20px;
+}
+
+.flex{
+    display: flex;
+}
+.add{
+    width: 220px;
+    margin-left: 20px;
+    background-color: #fff;
+    border: 1px solid #707070;
+    color: #707070;
+    border-radius: 5px;
+}
+
+.img__wish{
+    margin-top: 70px;
+}
+
+.main__inner span{
+    color: #707070;
+}
+
+.main__flex{
+    display: flex;
+}
+.main__flex h3{
+    margin-right: 90px;
+    color: #707070;
+    height: 60px;
+}
+.main__flex h3:hover{
+    color: #000;
+    border-bottom: 2px solid #000;
+}
+.main hr{
+    margin-top: -20px;
+}
+.main p {
+    color: #707070;
+}
+
+.flex2 div{
+    width: 320px;
+    margin-right: 70px;
+}
+.flex2 img{
+    width: 330px;
+}
+.flex2 p{
+    color: #707070;
+    margin-top: -10px;
+}
